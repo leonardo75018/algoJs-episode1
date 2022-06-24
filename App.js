@@ -67,7 +67,7 @@
 
 
 
-//Function seach 
+//Function search
 
 // function search (mot){
 //     let index = techs.indexOf(mot)
